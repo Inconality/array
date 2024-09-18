@@ -1,1 +1,2 @@
-print("Atharya Nugraha K")
+print("Atharya")
+print("Saya belajar python")
